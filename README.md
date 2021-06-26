@@ -1,6 +1,6 @@
 ●●● About Me ●●●
 
-A simple human just like others but with the passion in real world programming specially Java ❤️. I basically prefer to choose my projects/career in Java or Angular 2+ (only logic.. 🧑🏽‍💻 No cosmetics work like fancy css 🙄) I also like PHP with Laravel framework
+A simple human just like others but with the passion in real world programming specially Java ❤️. I basically prefer to choose my projects/career in Java or Angular 2+ (only logic.. 🧑🏽‍💻 No cosmetics work like fancy css 🙄) I also interested in python for web application/backend development
 
 I have been playing with Java for 4+ years (University, College). My 1st programming language was Java ❤️
 
