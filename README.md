@@ -1,10 +1,14 @@
 ●●● About Me ●●●
 
-A simple human just like others but with the passion in real world programming specially Java ❤️. I basically prefer to choose my projects/career in Java or Angular 2+ (only logic.. 🧑🏽‍💻 No cosmetics work like fancy css 🙄) I also interested in python for web application/backend development
+A simple human just like others but with the passion in web application/mobile application Back-End development specially in Java programming language and Spring Boot Framework. I am also interested to work as DevOps Engineer and Automation tester. I have some knowledge in Javascript(ES6), Typescript, React and Angular. I also worked little on Bash shell scripting.
 
-I have been playing with Java for 4+ years (University, College). My 1st programming language was Java ❤️
+I have hands on experience on Java web application development about 18 Months or 1.5 yrs 🎊 
+Two reputed company kindly has given me opportunity to work with their team. 🙏🏼 🤗
 
-- 📫 How to reach me -> Skype- live:asif_hossain, Linkedin- linkedin.com/in/asftaz/
+What I have in me 
+
+● Interpersonal and Communication skills and the ability to work efficiently, quickly in learning & working with new technologies to fulfil project needs.
+● Good Programming and Troubleshooting skills.
 
 My Favourite Areas:
 
@@ -14,21 +18,13 @@ My Favourite Areas:
 ● J2EE components such as JDBC, Servlet, JPA, Java Mail
 ● Spring Frameworks (Spring Data, Spring Security, Spring MVC, Spring Boot)
 ● Hibernate
-● JUnit, Mockito, Maven
+● JUnit, Mockito, MockMVC
 
-●●●● Frontend Stack ●●●
-
-● Angular 2+ Framework
-● HTML, CSS 
-● NodeJs, NPM
-● Protractor
-● Karma
-● Jasmine
 
 ●●● Other Tech Stack ●●●
 
 ● Swagger API, REST API & RESTFUL services.
-● GIT, Jenkins, SonarQube, JIRA
+● Maven, Git, Jenkins, SonarQube, JIRA
 ● Json Web Token (JWT)
 ● MySql, Oracle database, MongoDB
 ● Selenium Framework
@@ -40,6 +36,3 @@ My Favourite Areas:
 ● Docker, Kubernetes, AWS, GCP 
 ● RabbitMQ
 ● Redis
-
-
-
